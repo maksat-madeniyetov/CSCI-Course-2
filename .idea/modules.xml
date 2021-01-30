@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalProj/AnimalProj.iml" filepath="$PROJECT_DIR$/AnimalProj/AnimalProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aquarium/Aquarium.iml" filepath="$PROJECT_DIR$/Aquarium/Aquarium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automobile/Automobile.iml" filepath="$PROJECT_DIR$/Automobile/Automobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cracking_Code/Cracking_Code.iml" filepath="$PROJECT_DIR$/Cracking_Code/Cracking_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evaluator/Evaluator.iml" filepath="$PROJECT_DIR$/Evaluator/Evaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProj/FirstJavaProj.iml" filepath="$PROJECT_DIR$/FirstJavaProj/FirstJavaProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionProject/FunctionProject.iml" filepath="$PROJECT_DIR$/FunctionProject/FunctionProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_assignment_2/Lab_assignment_2.iml" filepath="$PROJECT_DIR$/Lab_assignment_2/Lab_assignment_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDSProject/PDSProject.iml" filepath="$PROJECT_DIR$/PDSProject/PDSProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word_Locator/Word_Locator.iml" filepath="$PROJECT_DIR$/Word_Locator/Word_Locator.iml" />
+    </modules>
+  </component>
+</project>
